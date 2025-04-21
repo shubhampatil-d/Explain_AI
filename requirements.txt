@@ -1,0 +1,14 @@
+openai
+google-generativeai
+elevenlabs  # or gTTS for simple TTS
+moviepy
+Pillow
+requests
+ffmpeg-python
+torch  # for GPU-based processing
+python-dotenv
+gTTS
+
+
+
+
